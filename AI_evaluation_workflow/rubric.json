@@ -1,0 +1,18 @@
+{
+  "ownership": {
+    "label": "Ownership",
+    "description": "Takes responsibility, follows through, and acts proactively within role boundaries."
+  },
+  "adaptability": {
+    "label": "Adaptability",
+    "description": "Adjusts approach when conditions, feedback, or priorities change."
+  },
+  "collaboration": {
+    "label": "Collaboration",
+    "description": "Works constructively with others, communicates clearly, and incorporates feedback."
+  },
+  "self_regulation": {
+    "label": "Self-regulation",
+    "description": "Maintains effective behavior and judgment under pressure or ambiguity."
+  }
+}
